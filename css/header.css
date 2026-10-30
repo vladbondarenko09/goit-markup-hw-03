@@ -1,5 +1,5 @@
 .header {
-  border-bottom: 1px solid #e8eafc;
+  border-bottom: 1px solid #e7e9fc;
   background-color: #ffffff;
 }
 .logo {
@@ -46,7 +46,7 @@
   font-style: normal;
 }
 
-header .container {
+.container {
   display: flex;
   justify-content: space-between;
   align-items: center;
